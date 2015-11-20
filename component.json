@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/zertosh/invariant.git",
+    "version": "v2.2.0",
+    "name": "invariant",
+    "main": "invariant.js"
+}
